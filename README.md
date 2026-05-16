@@ -1,3 +1,3 @@
 # Demo
 This is Demo Project 
-Author - Virat Chokli
+Author - Virat Chokli (For Fun)
